@@ -14,7 +14,7 @@ from requests import options
 import numpy as np
 import pandas as pd
 
-from .data import create_df, cleanFigureData
+from data import create_df, cleanFigureData
 
 
 
