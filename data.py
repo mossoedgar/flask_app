@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from sqlFunctions import queryTable
+from flask_app.sqlFunctions import queryTable
 
 
 def create_df():
