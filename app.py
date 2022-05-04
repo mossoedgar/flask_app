@@ -14,7 +14,7 @@ from requests import options
 import numpy as np
 import pandas as pd
 
-from flask_app.data import create_df, cleanFigureData
+from .data_process import create_df, cleanFigureData
 
 
 
